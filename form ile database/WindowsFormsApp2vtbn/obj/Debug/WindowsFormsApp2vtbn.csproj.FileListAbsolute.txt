@@ -1,0 +1,38 @@
+C:\Users\MYBABY\Documents\Visual Studio 2017\Projects\WindowsFormsApp2vtbn\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.csprojResolveAssemblyReference.cache
+C:\Users\MYBABY\Documents\Visual Studio 2017\Projects\WindowsFormsApp2vtbn\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.Form1.resources
+C:\Users\MYBABY\Documents\Visual Studio 2017\Projects\WindowsFormsApp2vtbn\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.Properties.Resources.resources
+C:\Users\MYBABY\Documents\Visual Studio 2017\Projects\WindowsFormsApp2vtbn\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.csproj.GenerateResource.Cache
+C:\Users\MYBABY\Documents\Visual Studio 2017\Projects\WindowsFormsApp2vtbn\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.csproj.CoreCompileInputs.cache
+C:\Users\B2_1\Desktop\WindowsFormsApp2vtbn\WindowsFormsApp2vtbn\bin\Debug\WindowsFormsApp2vtbn.exe.config
+C:\Users\B2_1\Desktop\hocanın veri tabanı class\WindowsFormsApp2vtbn\bin\Debug\WindowsFormsApp2vtbn.exe.config
+C:\Users\B2_1\Desktop\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.csprojResolveAssemblyReference.cache
+C:\Users\B2_1\Desktop\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.Form1.resources
+C:\Users\B2_1\Desktop\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.Properties.Resources.resources
+C:\Users\B2_1\Desktop\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.csproj.GenerateResource.Cache
+C:\Users\B2_1\Desktop\hocanın veri tabanı class\WindowsFormsApp2vtbn\bin\Debug\WindowsFormsApp2vtbn.exe
+C:\Users\B2_1\Desktop\hocanın veri tabanı class\WindowsFormsApp2vtbn\bin\Debug\WindowsFormsApp2vtbn.pdb
+C:\Users\B2_1\Desktop\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.exe
+C:\Users\B2_1\Desktop\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.pdb
+D:\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\bin\Debug\WindowsFormsApp2vtbn.exe.config
+D:\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.exe
+D:\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.pdb
+D:\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.csprojResolveAssemblyReference.cache
+D:\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.Form1.resources
+D:\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.Properties.Resources.resources
+D:\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.csproj.GenerateResource.Cache
+D:\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\bin\Debug\WindowsFormsApp2vtbn.exe
+D:\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\bin\Debug\WindowsFormsApp2vtbn.pdb
+D:\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\bin\Debug\WindowsFormsApp2vtbn.exe.config
+D:\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.exe
+D:\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.pdb
+D:\Dosyalar\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\bin\Debug\WindowsFormsApp2vtbn.exe.config
+D:\Dosyalar\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.exe
+D:\Dosyalar\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.pdb
+D:\Dosyalar\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.Form1.resources
+D:\Dosyalar\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.Properties.Resources.resources
+D:\Dosyalar\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.csproj.GenerateResource.Cache
+D:\Dosyalar\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.csproj.AssemblyReference.cache
+D:\Dosyalar\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.csproj.SuggestedBindingRedirects.cache
+D:\Dosyalar\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\obj\Debug\WindowsFormsApp2vtbn.csproj.CoreCompileInputs.cache
+D:\Dosyalar\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\bin\Debug\WindowsFormsApp2vtbn.exe
+D:\Dosyalar\visual\11 sınıf prog\form\hocanın veri tabanı class\WindowsFormsApp2vtbn\bin\Debug\WindowsFormsApp2vtbn.pdb
