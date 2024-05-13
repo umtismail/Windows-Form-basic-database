@@ -158,11 +158,5 @@ namespace WindowsFormsApp2vtbn
             }
             return Sonuc;
         }
-
-        public void Yapimci()
-        {
-            MessageBox.Show("Bu Sınıf Hüseyin Topkaya Tarafından Yapılmıştır");
-        }
-
     }
 }
